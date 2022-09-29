@@ -4,13 +4,13 @@ import React from "react";
 import GlobalStyles from "./components/GlobalStyles";
 
 // importing components
-import Navbar from "./components/Navbar";
+import Test from "./components/Test";
 
 function App() {
   return (
     <div className="App">
       <GlobalStyles />
-      <Navbar />
+      <Test />
     </div>
   );
 }
